@@ -1,18 +1,17 @@
 
 .header{
-    border-radius:20px;
-    background-color:#00ffdd;
+    background-color:#ffff00;
     display: flex;
     justify-content: space-between;
     }
     
 .bodyimg{
-    border-radius:23px;
-    background-color:#FF3355
+    background-color:rgb(255, 230, 6)
+
 }
 
 .grid {
-border:2px solid #000000;
+border:2px solid black;
 border-radius:50px;
 display: flex;
 justify-content: space-evenly;
@@ -21,9 +20,8 @@ flex-wrap:wrap;
 
 .item{
 border-radius:20px;
-background-color:#FFFFFF;
-padding:30px;
-margin:25px;
+background-color:white;
+
 width:310px;
 font-family:fantasy;
 }
@@ -31,17 +29,15 @@ font-family:fantasy;
 .menu{
 display:flex;
 justify-content:space-between;
-background-color:#000000;
-padding:50px;
+background-color:black;
 font-size: 20px;
 font-family:sans-serif;
 font-weight:400;
-color:#FFFFFF;
+color:white;
 }
 
 body{
-    margin:0px;
-    background-color:#00ff4c
+    background-color:whitesmoke
 }
 
 p{
